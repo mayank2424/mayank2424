@@ -1,7 +1,7 @@
 ### Hi Peeps, I am Mayank Gupta 👋
 
 
-- 🔭 Software Enginner at CampK12
+- 🔭 Software Engineer at CampK12
 - 🌱 I’m currently learning more about Operating Systems...
 - 🤔 I’m looking for help with building and improving how the web works
 - 💬 Ask me about anything
