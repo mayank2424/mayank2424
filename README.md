@@ -2,8 +2,7 @@
 
 
 - 🔭 Software Engineer at Crowdlinker.
-- 🌱 I’m currently learning more about Operating Systems...
-- 🤔 I’m looking for help with building and improving how the web works
+- 🌱 I’m currently learning more about Operating Systems and Databases...
 - 💬 Ask me about anything
 - 📫 How to reach me: Twitter-@mayank0324, Email-mayankgupta2424@gmail.com
 - 😄 Pronouns: Hey MG
