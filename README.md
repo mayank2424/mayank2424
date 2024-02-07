@@ -1,4 +1,4 @@
-### Hi Peeps, I am Mayank Gupta 👋
+### Hey, I am Mayank Gupta 👋
 
 
 - 🔭 Software Engineer at Crowdlinker.
